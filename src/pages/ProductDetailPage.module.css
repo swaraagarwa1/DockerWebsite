@@ -1,0 +1,711 @@
+.image9Icon {
+  height: 239px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.productName {
+  margin: 0 !important;
+  width: 733px;
+  position: absolute;
+  bottom: 75px;
+  left: 80px;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+}
+.image9Parent {
+  margin-top: -275px;
+  margin-left: -80px;
+  width: 1493px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 117%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--heading-size);
+  color: var(--color-black);
+  font-family: var(--subheading);
+}
+.price {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.chevronDownIcon,
+.label {
+  position: relative;
+  overflow: hidden;
+}
+.label {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevronDownIcon {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.dropdown {
+  width: 250px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-mini);
+  gap: var(--gap-base);
+}
+.chevronDownIcon1,
+.label1 {
+  position: relative;
+  overflow: hidden;
+}
+.label1 {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevronDownIcon1 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.dropdown1,
+.dropdownWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown1 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  padding: var(--padding-3xs) var(--padding-mini);
+  gap: var(--gap-base);
+  white-space: nowrap;
+}
+.dropdownWrapper {
+  align-self: stretch;
+  padding: 0 var(--padding-30xl) var(--padding-8xs) var(--padding-38xl);
+}
+.chevronDownIcon2,
+.label2 {
+  position: relative;
+  overflow: hidden;
+}
+.label2 {
+  flex: 1;
+  line-height: 24px;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 68px;
+}
+.chevronDownIcon2 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.dropdown2,
+.dropdownContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.dropdown2 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-mini);
+  gap: var(--gap-base);
+}
+.dropdownContainer {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-30xl) 0 var(--padding-38xl);
+}
+.foodItem1 {
+  margin-bottom: 0;
+}
+.foodItem1ServingSizeFoo {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-2xl);
+}
+.foodItem1Container {
+  width: 269px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.foodItem1ServingSizeFooWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: var(--color-gray-100);
+}
+.chevronDownIcon3,
+.label3 {
+  position: relative;
+  overflow: hidden;
+}
+.label3 {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevronDownIcon3 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.dropdown3,
+.dropdownFrame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown3 {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  padding: var(--padding-3xs) var(--padding-mini);
+  gap: var(--gap-base);
+  white-space: nowrap;
+}
+.dropdownFrame {
+  align-self: stretch;
+  padding: 0 var(--padding-30xl) 0 var(--padding-38xl);
+}
+.chevronDownIcon4,
+.label4 {
+  position: relative;
+  overflow: hidden;
+}
+.label4 {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevronDownIcon4 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.dropdown4 {
+  width: 250px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-mini);
+  gap: var(--gap-base);
+}
+.chevronDownIcon5,
+.label5 {
+  position: relative;
+  overflow: hidden;
+}
+.label5 {
+  flex: 1;
+  line-height: 24px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.chevronDownIcon5 {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.dropdown5,
+.dropdownComponents {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown5 {
+  width: 250px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-mini);
+  gap: var(--gap-base);
+}
+.dropdownComponents {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26.3px;
+}
+.dropdownParent,
+.frameParent1 {
+  flex-direction: column;
+  gap: var(--gap-lgi);
+}
+.frameParent1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.dropdownParent {
+  flex: 1;
+}
+.dropdownParent,
+.frameDiv,
+.priceParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameDiv {
+  width: 392px;
+  flex-direction: row;
+  padding: 0 var(--padding-lg);
+  box-sizing: border-box;
+  font-size: var(--presets-body2-size);
+}
+.priceParent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xl);
+  min-width: 402px;
+}
+.image2Icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image2Wrapper {
+  height: 525px;
+  width: 542px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 11px;
+  box-sizing: border-box;
+  min-width: 542px;
+  max-width: 100%;
+}
+.frameContainer,
+.frameWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameContainer {
+  flex: 1;
+  align-items: flex-end;
+  gap: 53px;
+}
+.frameWrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 var(--padding-13xl) 0 35px;
+  box-sizing: border-box;
+}
+.download {
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subheading);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 115px;
+}
+.button,
+.buttonWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl);
+  background-color: var(--color-black);
+  flex: 1;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  justify-content: center;
+}
+.button:hover {
+  background-color: var(--color-darkslategray-200);
+}
+.buttonWrapper {
+  width: 714px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-29xl) var(--padding-5xl);
+}
+.viewOtherDays {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: inherit;
+}
+.viewOtherDaysMealOptionsWrapper {
+  width: 1267px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image3Icon {
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.span {
+  font-size: var(--body-text-size);
+}
+.friday {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.card,
+.copy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy {
+  align-self: stretch;
+  justify-content: center;
+}
+.card {
+  justify-content: flex-start;
+  padding: 0 0 6px;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image4Icon,
+.saturday {
+  align-self: stretch;
+  position: relative;
+}
+.image4Icon {
+  height: 296px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.saturday {
+  margin: 0;
+  font-size: inherit;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: inherit;
+}
+.card1,
+.copy1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.copy1 {
+  align-self: stretch;
+  justify-content: center;
+}
+.card1 {
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.image5Icon {
+  align-self: stretch;
+  height: 296px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.span1 {
+  font-size: var(--body-text-size);
+}
+.copy2,
+.sunday {
+  align-self: stretch;
+}
+.sunday {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.copy2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.card2,
+.cardList,
+.frameParent2 {
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.card2 {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+}
+.cardList,
+.frameParent2 {
+  align-self: stretch;
+}
+.cardList {
+  display: grid;
+  flex-direction: row;
+  gap: var(--spacing-sm);
+  grid-template-columns: repeat(3, minmax(304px, 1fr));
+  font-size: var(--subheading-size);
+}
+.frameParent2 {
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+}
+.downloadTheRest,
+.frameGroup {
+  font-family: var(--subheading);
+  text-align: left;
+}
+.frameGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 58px;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.downloadTheRest {
+  position: relative;
+  font-size: var(--subheading-size);
+  line-height: 150%;
+  color: var(--color-white);
+}
+.buttonPanel,
+.buttonPrimary {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.buttonPrimary {
+  cursor: pointer;
+  border: 0;
+  padding: 7px var(--padding-xl);
+  background-color: rgba(0, 0, 0, 0.74);
+  width: 866px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+}
+.buttonPrimary:hover {
+  background-color: rgba(51, 51, 51, 0.74);
+}
+.buttonPanel {
+  width: 1266px;
+  padding: 0 var(--padding-xl);
+}
+.frameParent,
+.productDetailPage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent {
+  align-self: stretch;
+  gap: 69px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.productDetailPage {
+  width: 100%;
+  height: 1748px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  padding: 220px var(--padding-8xl) 201px 28px;
+  box-sizing: border-box;
+  gap: 36px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .image2Icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .image2Wrapper {
+    flex: 1;
+  }
+  .frameContainer {
+    flex-wrap: wrap;
+  }
+  .productDetailPage {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .price,
+  .viewOtherDays {
+    font-size: var(--font-size-7xl);
+    line-height: 38px;
+  }
+  .cardList {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(304px, 528px));
+  }
+}
+@media screen and (max-width: 750px) {
+  .image2Wrapper,
+  .priceParent {
+    min-width: 100%;
+  }
+  .frameContainer {
+    gap: 26px;
+  }
+  .buttonWrapper {
+    padding-left: var(--padding-5xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .cardList {
+    gap: var(--spacing-sm);
+    grid-template-columns: minmax(304px, 1fr);
+  }
+  .frameParent2 {
+    gap: var(--gap-lgi);
+  }
+  .frameGroup {
+    gap: 29px;
+  }
+  .frameParent {
+    gap: 34px;
+  }
+  .productDetailPage {
+    gap: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .price {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .dropdownWrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .dropdown2 {
+    flex-wrap: wrap;
+  }
+  .dropdownContainer,
+  .dropdownFrame {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .download,
+  .friday,
+  .viewOtherDays {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .friday {
+    font-size: var(--presets-body2-size);
+  }
+  .saturday,
+  .sunday {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .sunday {
+    font-size: var(--presets-body2-size);
+  }
+  .downloadTheRest {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .frameParent {
+    gap: 17px;
+  }
+}
